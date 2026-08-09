@@ -1,0 +1,19 @@
+# Pretrained and Exported Model Weights
+weights/
+output/
+model_weights/
+*.onnx
+*.onnx.data
+*.pt
+*.pth
+
+# External Cloned Repositories & Submodules
+third_party/
+
+# Benchmarks & Calibration Data
+sample_data/
+
+# Python & Jupyter Caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
