@@ -7,6 +7,13 @@ model_weights/
 *.pt
 *.pth
 
+# Root Convenience Symlinks
+accelerated_features
+LightGlue-ONNX
+SuperPoint
+model_weights
+temp.md
+
 # External Cloned Repositories & Submodules
 third_party/
 
